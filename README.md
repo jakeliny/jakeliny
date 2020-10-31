@@ -23,7 +23,7 @@
 
 **~let's rock the future!**
 
-<img alt="GIF" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nyan-cat.png" width="230" />
+<img alt="GIF" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nyan-cat-gif.gif" width="230" />
 
 
 
