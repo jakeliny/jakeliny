@@ -2,6 +2,10 @@
 
 I'm Jake!
 
+let's rock programming!
+![](my-gif.gif)
+
+
 <!--
 **jakeliny/jakeliny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
