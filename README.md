@@ -1,8 +1,8 @@
-### Hi, I'm Jake! <img src="https://media.giphy.com/media/JQpH0yX1TXwrFxIYC4/giphy.gif" width="50">
+### Hi, I'm Jake! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">
 * * *
 
 
-<img align="right" alt="GIF" src="" width="500" height="290" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/work-gif.gif" width="500" height="290" />
 
 
 **~Talking about Personal Stuffs:**
@@ -14,15 +14,16 @@
 
 
 **~Languages and Tools:**  
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png"></code>
 
 
 **~let's rock the future!**
 
-<img alt="GIF" src="" width="230" />
+<img alt="GIF" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nyan-cat.png" width="230" />
 
 
 
