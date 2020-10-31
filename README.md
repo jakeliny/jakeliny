@@ -2,7 +2,7 @@
 * * *
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/work-gif.gif" width="500" height="290" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/work-gif.gif" width="400"/>
 
 
 **~Talking about Personal Stuffs:**
