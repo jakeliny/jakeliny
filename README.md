@@ -1,9 +1,29 @@
-### Hi there 👋
+### Hi, I'm Jake! <img src="https://media.giphy.com/media/JQpH0yX1TXwrFxIYC4/giphy.gif" width="50">
+* * *
 
-I'm Jake!
 
-let's rock programming!
-![](my-gif.gif)
+<img align="right" alt="GIF" src="" width="500" height="290" />
+
+
+**~Talking about Personal Stuffs:**
+
+- 💻 I'm currently working on Gupy with NodeJS, React and TypeScript;
+- 🌱 I'm currently learning TDD and python; 
+- 📝 I'm currently graduating in CyberSecurity
+- 📫 How to reach me: [my site](https://jakeliny.com.br) and [linkedIn](https://www.linkedin.com/in/jakelinygracielly/);
+
+
+**~Languages and Tools:**  
+<code><img height="20" src=""></code>
+<code><img height="20" src=""></code>
+<code><img height="20" src=""></code>
+<code><img height="20" src=""></code>
+
+
+**~let's rock the future!**
+
+<img alt="GIF" src="" width="230" />
+
 
 
 <!--
