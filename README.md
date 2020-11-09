@@ -7,7 +7,7 @@
 
 
 **~Talking about Personal Stuffs:**
-- 💻 I'm currently working on Gupy with NodeJS, React and TypeScript;
+- 💻 I'm currently working with NodeJS, React and TypeScript;
 - 🌱 I'm currently learning TDD and python; 
 - 📝 I'm currently graduating in CyberSecurity
 - 📫 How to reach me: [my site](https://jakeliny.com.br) and [linkedIn](https://www.linkedin.com/in/jakelinygracielly/);
