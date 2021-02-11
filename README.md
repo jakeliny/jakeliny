@@ -9,7 +9,7 @@
 - 💻 I'm currently working with NodeJS, React and TypeScript
 - 🌱 I'm currently learning Red Team techniques and Python
 - 📝 I'm currently graduating in CyberSecurity
-- ⚡ I try to help people who are studying programming on [Youtube](https://www.youtube.com/channel/UC8hYdAY6LhXhbp_o0Qtk-ZQ)
+- ⚡ I try to help people who are studying programming on [Youtube](https://www.youtube.com/channel/UC8hYdAY6LhXhbp_o0Qtk-ZQ) and [Twitch](https://www.twitch.tv/thasfin)
 - 📫 How to reach me: [my site](https://jakeliny.com.br) and [linkedIn](https://www.linkedin.com/in/jakelinygracielly/)
 
 
