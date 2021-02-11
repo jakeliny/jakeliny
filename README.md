@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/banner.png" width="100%">
 
 
-<h4 align="center"> Hi, I'm Jake! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50"></h4>
+**Hi, I'm Jake! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">**
 
 * * *
 
-
-**~Talking about Personal Stuffs:**
+**About me:**
 - 💻 I'm currently working with NodeJS, React and TypeScript;
 - 🌱 I'm currently learning TDD and python; 
 - 📝 I'm currently graduating in CyberSecurity
@@ -14,7 +13,7 @@
 
 
 
-**✨ Languages and Tools:**  
+**Languages and tools:**
 
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
