@@ -4,10 +4,6 @@
 * * *
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/work-gif.gif" width="400"/>
-
-
-
 **~Talking about Personal Stuffs:**
 - 💻 I'm currently working with NodeJS, React and TypeScript;
 - 🌱 I'm currently learning TDD and python; 
