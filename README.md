@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/banner.png" width="100%">
+
 ### Hi, I'm Jake! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">
 * * *
 
