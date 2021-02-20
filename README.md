@@ -8,7 +8,7 @@
 **About me:**
 - 💻 I'm currently working with NodeJS, React and TypeScript
 - 🚀 I'm a instructor at Rocketseat
-- <img align="left" height="15" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/microsoft.png">I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003552?fullName=Jakeliny%20Gracielly)
+- <img  height="18" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/microsoft.png"> I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003552?fullName=Jakeliny%20Gracielly)
 - 🌱 I'm currently learning Red Team techniques and Python
 - 📝 I'm currently graduating in CyberSecurity
 - ⚡ I try to help people who are studying programming on [Youtube](https://www.youtube.com/channel/UC8hYdAY6LhXhbp_o0Qtk-ZQ) and [Twitch](https://www.twitch.tv/thasfin)
@@ -28,3 +28,4 @@
 
 
 **🚀 let's rock the future!**
+  
