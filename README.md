@@ -7,6 +7,7 @@
 
 **About me:**
 - 💻 I'm currently working with NodeJS, React and TypeScript
+- I'm [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003552?fullName=Jakeliny%20Gracielly)
 - 🌱 I'm currently learning Red Team techniques and Python
 - 📝 I'm currently graduating in CyberSecurity
 - ⚡ I try to help people who are studying programming on [Youtube](https://www.youtube.com/channel/UC8hYdAY6LhXhbp_o0Qtk-ZQ) and [Twitch](https://www.twitch.tv/thasfin)
