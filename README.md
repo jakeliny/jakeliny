@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/newbanner.png" width="100%">
+<img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/banner_github.png" width="100%">
 
 
 **Hi, I'm Jake! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">**
