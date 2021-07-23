@@ -11,7 +11,7 @@
 - <img  height="16" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/microsoft.png"> I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003552?fullName=Jakeliny%20Gracielly)
 - 🔥 I'm community leader at [Dev House](https://github.com/dev-house-community)
 - 📝 I'm currently graduating in CyberSecurity
-- ✨ I try to help people who are studying programming on [Youtube](https://www.youtube.com/channel/UC8hYdAY6LhXhbp_o0Qtk-ZQ) and [Twitch](https://www.twitch.tv/thasfin)
+- ✨ I try to help people who are studying programming on [Youtube](https://www.youtube.com/channel/UC8hYdAY6LhXhbp_o0Qtk-ZQ) and [Twitch](https://www.twitch.tv/jakeliny)
 - 📫 How to reach me: [my site](https://jakeliny.com.br), [linkedIn](https://www.linkedin.com/in/jakelinygracielly/) and [instagram](https://www.instagram.com/jakeliny.gracielly/)
 
 
