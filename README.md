@@ -20,7 +20,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,postgres&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,rabbitmq,postgres&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
@@ -28,7 +28,7 @@
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,vercel,github,git,prisma,redis,rabbitmq,vscode&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,github,git,firebase,vscode&theme=dark&perline=3" />
 </p>
 
 </td></tr></table>
