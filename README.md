@@ -1,4 +1,8 @@
-![Banner](https://raw.githubusercontent.com/jakeliny/jakeliny/24b8cbc6e02e6a64580061675397e8b0ee32c313/images/banner.png)
+<div style="margin-top:50px"></div>
+
+![Banner](https://raw.githubusercontent.com/jakeliny/jakeliny/c7a88961e1c10e279e2ee0882cd928129f90cb52/images/banner.png)
+
+<div style="margin-bottom:100px"></div>
 
 # 📝About Me
 
@@ -55,7 +59,6 @@
 </a>   
 </div>  
 <br/><br/>
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakeliny&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakeliny&theme=radical)
