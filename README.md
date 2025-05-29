@@ -6,7 +6,7 @@
 
 # 📝About Me
 
-<h3 align="center">I have been a web developer for 12 years, specializing in the Javascript ecosystem, with expertise in NodeJS and ReactJS. I was recognized by Microsoft as <a href="https://mvp.microsoft.com/pt-BR/mvp/profile/7d73eca0-2510-ea11-a811-000d3a8ccb3e">Microsoft Most Valuable Professional</a> for 5 years</h3>
+<h3 align="center">Software engineer specializing in JavaScript (TypeScript, Node.js, React), with solid experience in finance, logistics, and HR. MVP Alumni, now diving deeper into architecture, system design, and AWS.
 <br/><br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
