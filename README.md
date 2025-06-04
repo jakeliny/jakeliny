@@ -11,36 +11,20 @@
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
-<table align="center"><tr><td valign="top" width="30%">
+<table align="center" style="border: none;"><tr><td valign="top" width="60%" style="border: none;">
 
-### <div align="center"> Frontend </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,graphql&theme=dark&perline=3" />
-</p>
-
-</td><td valign="top" width="30%">
-
-### <div align="center"> Backend </div>
+### <div align="center"> Developer </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,jest,go&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nest,prisma,react,nextjs,tailwind,cypress,jest&theme=dark&perline=3" />
 </p>
 
-</td><td valign="top" width="20%">
-
-### <div align="center"> Databases </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark&perline=2" />
-</p>
-
-</td><td valign="top" width="20%">
+<td valign="top" width="40%" style="border: none;">
 
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,rabbitmq,docker,vscode&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=aws,postgres,redis,rabbitmq,docker,firebase&theme=dark&perline=2" />
 </p>
 
 </td></tr></table>
