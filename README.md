@@ -47,7 +47,4 @@
 <img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
 </a>   
 </div>  
-<br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakeliny&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakeliny&theme=radical)
