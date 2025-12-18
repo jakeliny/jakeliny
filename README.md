@@ -8,7 +8,7 @@
 
 ## 📝 About Me
 
-<h3>Software engineer with experience building systems for the finance industry. My work focuses on back-end development, using Node.js and cloud technologies, while also exploring the potential of Artificial Intelligence to create innovative solutions.
+<h3>Software engineer with experience building systems for the financial industry. My work focuses on back-end development, using Node.js and cloud technologies, while also exploring the potential of Artificial Intelligence to create innovative solutions.
 
 <br>
 <br>
